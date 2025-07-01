@@ -156,7 +156,7 @@ About Me
             <h2 className="font-bebas text-3xl text-teal-400 font-bold mb-6">About Me</h2>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
               Hi, I am a frontend developer with a love for crafting sleek web experiences. Outside of
-              coding, I enjoy football, movies, music, and editing with Photoshop and Premiere Pro.
+              coding, I enjoy music, painting,crafting and gardening.
               Let’s connect and chat about tech or any of my favorite hobbies!
             </p>
           </div>
