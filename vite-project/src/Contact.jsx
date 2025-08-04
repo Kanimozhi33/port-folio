@@ -21,7 +21,7 @@ const Contact = () => {
                 <IoCall className="text-4xl text-teal-400 flex-shrink-0" />
                 <div>
                   <h3 className="text-lg text-gray-400 font-semibold">Phone</h3>
-                  <a href="tel:+918489135208" className="text-gray-200 text-xl hover:text-teal-300 transition-colors duration-300">
+                  <a href="" className="text-gray-200 text-xl hover:text-teal-300 transition-colors duration-300">
                     +91 xxxxx xxxxx
                   </a>
                 </div>
