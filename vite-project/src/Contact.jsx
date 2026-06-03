@@ -32,7 +32,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg text-gray-400 font-semibold">Mail</h3>
                   <a href={`${MAIL}`} className="text-gray-200 text-xl hover:text-teal-300 transition-colors duration-300">
-                    {"vmkanimozhi9033@gmail.com"}
+                    {"kanimozhi02vm@gmail.com"}
                   </a>
                 </div>
               </span>
